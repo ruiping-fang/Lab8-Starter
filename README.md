@@ -1,7 +1,8 @@
 # Lab8-Starter
 
-Ruiping Fang
-Sihan Wang
+- Ruiping Fang
+
+- Sihan Wang
 
 [Git Page](https://ruiping-fang.github.io/Lab8-Starter/)
 
